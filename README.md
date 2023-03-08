@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.pinimg.com/564x/c2/cd/b2/c2cdb2eef0f239376dd4c0256d90ae36.jpg" height="380px"/></p>
+<p align="center"><img src="https://i.pinimg.com/originals/08/b7/ce/08b7ce1d372f301d8fce8c52e9ac80f3.gif" height="380px"/></p>
 
 # Hi I'm Huu Thien 🤡
 <ul>
