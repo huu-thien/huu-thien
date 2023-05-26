@@ -1,6 +1,6 @@
 
 <p align="center"><img src="https://i.pinimg.com/originals/08/b7/ce/08b7ce1d372f301d8fce8c52e9ac80f3.gif" height="380px"/></p>
-<a href="https://huu-thien.github.io/Profile/"># Hi I'm Huu Thien 🤡</a>
+<a href="https://huu-thien.github.io/Profile/"><h1>Hi I'm Huu Thien 🤡>h1></a>
 <ul>
   <li>Student at The University of Danang - University of Science and Technology</li>
 </ul>
